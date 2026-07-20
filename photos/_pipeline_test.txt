@@ -1,0 +1,1 @@
+pipeline connectivity test
